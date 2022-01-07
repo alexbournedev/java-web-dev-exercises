@@ -1,4 +1,4 @@
-package studios.org.launchcode.java.studios.areaofacircle;
+package StuStuStudio.java.studios;
 
 
 import java.util.Scanner;

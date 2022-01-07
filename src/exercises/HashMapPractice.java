@@ -27,7 +27,7 @@ public class HashMapPractice {
         System.out.println("\nClass Roster: ");
 
         for (Map.Entry<Integer, String> student : students.entrySet()){
-            System.out.println("\nStudent ID \"" + student.getKey() + "\" belongs to: " + student.getValue() + ".");
+            System.out.println(student.getValue() + "'s ID is " + student.getKey());
         }
 
     }
