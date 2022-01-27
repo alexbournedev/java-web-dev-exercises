@@ -1,7 +1,5 @@
 package org.launchcode.java.demos.lsn3classes1;
 
-import bookCodeAlongs.TestCase;
-
 public class SchoolPractice {
     public static void main(String[] args) {
 //        var student1 = new Student();
