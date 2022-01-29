@@ -1,4 +1,4 @@
-package StuStuStudio.java.studios;
+package Studios;
 
 public class Circle {
     public static Double getArea(Double radius) {

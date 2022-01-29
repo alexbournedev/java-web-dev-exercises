@@ -1,11 +1,11 @@
 package exercises.technology;
 
-public abstract class Abstraction {
+public abstract class AbstractEntity {
 
     private int id;
     private static int count = 0;
 
-    public Abstraction() {
+    public AbstractEntity() {
         this.id = ++count;
     }
 

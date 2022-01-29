@@ -1,4 +1,4 @@
-package StuStuStudio.java.studios;
+package Studios;
 
 
 import java.util.Scanner;
